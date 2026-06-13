@@ -35,7 +35,7 @@ public class Level_4 {
 
     public static void main(String[] args){
 
-        int[] arr = {5, 2, -1, 0, 3};
+        int[] arr = {1, 2, 3, 4, 5};
         int k = 3;
 
         System.out.println(maxSumWindow(arr, k));;
